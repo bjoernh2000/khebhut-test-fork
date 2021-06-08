@@ -1,13 +1,13 @@
 host: test.thoth-station.ninja
 requirements_format: pipenv
 service_type: github
-# runtime_environments:
-#   - name: fedora:32
-#     operating_system:
-#       name: fedora
-#       version: "32"
-#     python_version: "3.8"
-#     recommendation_type: latest
+runtime_environments:
+  - name: fedora:32
+    operating_system:
+      name: fedora
+      version: "32"
+    python_version: "3.8"
+    recommendation_type: latest
 
 managers:
   - name: version
