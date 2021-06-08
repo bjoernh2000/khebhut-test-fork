@@ -1,0 +1,21 @@
+host: test.thoth-station.ninja
+tls_verify: true
+requirements_format: pipenv
+
+runtime_environments:
+  - name: fedora:32
+    operating_system:
+      name: fedora
+      version: "32"
+    python_version: "3.8"
+    recommendation_type: latest
+
+managers:
+  - name: version
+    configuration:
+      maintainers:
+        - bjoernh2000
+      assignees:
+        - sesheta
+      labels: [bot, kebechet]
+      changelog_file: true
