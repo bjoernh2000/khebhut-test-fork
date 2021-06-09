@@ -4,3 +4,4 @@ print("Hello World")
 
 def foo(string):
     print(string)
+    return
