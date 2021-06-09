@@ -1,6 +1,7 @@
 
-## Release 0.4.0 (2021-06-09T12:05:06)
+## Release 0.5.0 (2021-06-09T12:06:55)
 ### Features
+* Release of version 0.4.0
 * added Changelog
 * edited foo
 * Delete CHANGELOG.md
@@ -21,4 +22,5 @@
 * Added Pipfile
 * Added major-release.md, minor-release.md and path-release.md templates
 ### Improvements
+* Testing minor release versioning
 * removed change_log config
