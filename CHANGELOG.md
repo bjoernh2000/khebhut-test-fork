@@ -1,6 +1,8 @@
 
-## Release 0.5.0 (2021-06-09T12:06:55)
+## Release 1.0.0 (2021-06-09T12:11:12)
 ### Features
+* Testing major release
+* Release of version 0.5.0
 * Release of version 0.4.0
 * added Changelog
 * edited foo
