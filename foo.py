@@ -9,3 +9,6 @@ def foo(string):
 def boo(num):
     print(num)
     return
+
+def major(num):
+    print(num)
