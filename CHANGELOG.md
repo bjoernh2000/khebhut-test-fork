@@ -1,6 +1,8 @@
 
-## Release 0.3.1 (2021-06-09T11:48:54)
+## Release 0.3.2 (2021-06-09T11:50:39)
 ### Features
+* added to README
+* Release of version 0.3.1
 * edited README
 * Release of version 0.3.0
 * modified foo, added Readme
@@ -16,8 +18,7 @@
 * Added major-release.md, minor-release.md and path-release.md templates
 ### Improvements
 * removed change_log config
-restored runtime environment
-* Changed yaml file to not include runtime env
+ile to not include runtime env
 * moved templates to ./github/USUE_TEMPLATE
 * Added Pipfile
 * Added major-release.md, minor-release.md and path-release.md templates
