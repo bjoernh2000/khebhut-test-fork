@@ -1,6 +1,7 @@
 
-## Release 1.6.0 (2021-06-11T15:16:18)
+## Release 1.5.1 (2021-06-15T14:28:07)
 ### Features
+* conflic change commit
 * Release of version 1.5.0
 * No title
 * Release of version 1.4.0
@@ -75,6 +76,7 @@
 * Testing minor release
 * Testing minor release versioning
 * removed change_log config
+
 ## Release 1.4.0 (2021-06-10T16:37:15)
 ### Features
 * Title 1 again
@@ -110,6 +112,7 @@
 * Testing minor release
 * Testing minor release versioning
 * removed change_log config
+
 ## Release 1.3.0 (2021-06-10T16:35:35)
 ### Features
 * Minor release with ver 2 Title
@@ -175,6 +178,7 @@
 * Testing minor release
 * Testing minor release versioning
 * removed change_log config
+
 ## Release 1.1.0 (2021-06-09T12:25:42)
 ### Features
 * Release of version 1.0.0

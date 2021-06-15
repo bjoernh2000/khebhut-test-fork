@@ -16,3 +16,6 @@ def major(num):
 def someBOO(lo):
     print(lo)
 
+def conflicting_change(bon):
+    print(bon)
+    
