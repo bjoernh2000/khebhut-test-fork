@@ -12,3 +12,7 @@ def boo(num):
 
 def major(num):
     print(num)
+
+def conflicting_change(bon):
+    print(bon)
+    
